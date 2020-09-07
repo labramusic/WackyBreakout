@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond,ballImpulseForce,ballLifetime,ballStartDelay,minSpawnTime,maxSpawnTime,standardBlockPoints,bonusBlockPoints,pickupBlockPoints,standardBlockProb,bonusBlockProb,pickupBlockProb,ballsPerGame,freezeDuration,speedupDuration,ballSpeedupFactor
+10,250,10,1,5,10,1,2,5,0.7,0.2,0.05,10,2,2,2
