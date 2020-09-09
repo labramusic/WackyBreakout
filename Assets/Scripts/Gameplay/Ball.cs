@@ -106,7 +106,6 @@ public class Ball : MonoBehaviour
         }
     }
 
-    // moguce jedan timer??
     private void HandleSpeedupEffectActivatedEvent(float effectDuration, float ballSpeedupFactor)
     {
         if (SpeedupTimer.Running)
